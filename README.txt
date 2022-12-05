@@ -1,5 +1,5 @@
 
-Source installation information for modders
+Installation for Modders (Users see below):
 -------------------------------------------
 This code follows the Minecraft Forge installation methodology. It will apply
 some small patches to the vanilla MCP source code, giving you and it access 
@@ -44,3 +44,7 @@ Community Documentation: https://mcforge.readthedocs.io/en/latest/gettingstarted
 LexManos' Install Video: https://www.youtube.com/watch?v=8VEdtQLuLO0  
 Forge Forum: https://forums.minecraftforge.net/  
 Forge Discord: https://discord.gg/UvedJ9m  
+
+USER INSTALLATION:
+1. Download the Jar file from the latest release
+2. Put the Jar file in your mods folder in minecraft
