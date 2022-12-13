@@ -1,3 +1,13 @@
+Overview:
+This mod is a villager trade refresh mods that allows you to refresh the trades of a villager by right clicking on them with a stick.
+
+Features:
+Refresh the trades of a villager by right clicking on them with a stick (Only if they are level 1).
+
+Tech Stack:
+Java, Gradle
+
+Modders and User information below.
 
 Installation for Modders (Users see below):
 -------------------------------------------
